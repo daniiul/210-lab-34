@@ -1,3 +1,5 @@
+// COMSC-210 | 210-lab-32 | Daniil Malakhov
+// IDE used: Codeblocks
 #include <iostream>
 #include <vector>
 #include <queue>
